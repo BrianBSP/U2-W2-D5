@@ -54,3 +54,8 @@ main {
 .contain-btn {
   margin-bottom: 100px;
 }
+.bi-pencil-fill {
+  position: absolute;
+  left: 4px;
+  top: 47px;
+}
