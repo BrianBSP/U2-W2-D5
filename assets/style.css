@@ -25,9 +25,25 @@ img {
   width: 100%;
 }
 .container-footer {
-  width: 500px;
+  margin-top: 100px;
+  max-width: 800px;
   margin-inline: auto;
+}
+.icons-foot {
+  margin-left: 20px;
 }
 .container-footer a {
   margin-inline: 10px;
+}
+.row-cols-4 {
+}
+.row-cols-4 ul {
+  list-style: none;
+  line-height: 35px;
+}
+.row-foot {
+  margin-block: 30px;
+  color: rgb(165, 165, 165);
+}
+.row-foot p {
 }
