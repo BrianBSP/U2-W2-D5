@@ -35,8 +35,7 @@ img {
 .container-footer a {
   margin-inline: 10px;
 }
-.row-cols-4 {
-}
+
 .row-cols-4 ul {
   list-style: none;
   line-height: 35px;
@@ -45,5 +44,9 @@ img {
   margin-block: 30px;
   color: rgb(165, 165, 165);
 }
-.row-foot p {
+.row-foot:nth-of-type(3) {
+  margin-left: 20px;
+}
+.row-foot:nth-of-type(4) {
+  margin-left: 20px;
 }

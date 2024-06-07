@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(48, 48, 48);
+}
+nav {
+  background-color: rgb(48, 48, 48);
+}
+main {
+  max-width: 600px;
+  margin-inline: auto;
+  color: rgb(220, 220, 220);
+}
+.contain-title {
+  border-bottom: 1px solid rgb(71, 71, 71);
+  margin-bottom: 20px;
+}
+.user-img {
+  width: 120px;
+  height: 120px;
+}
+.contain-avatar {
+  width: 125px;
+}
+.drop-btn {
+  border: 1px solid white;
+  border-radius: 0px;
+  padding-block: 3px;
+}
+
+.contain-name-2 {
+  border-bottom: 1px solid rgb(71, 71, 71);
+  line-height: 35px;
+}
+.contain-maturity {
+  border-bottom: 1px solid rgb(71, 71, 71);
+  line-height: 35px;
+  padding-bottom: 10px;
+}
+.contain-maturity button {
+  border-radius: 0px;
+}
+.contain-autoplay {
+  margin-bottom: 20px;
+}
+.contain-info {
+  border-bottom: 1px solid rgb(71, 71, 71);
+  margin-bottom: 20px;
+}
+.btn-outline-success {
+  border-radius: 0px;
+}
+.btn-outline-danger {
+  border-radius: 0px;
+}
+.contain-btn {
+  margin-bottom: 100px;
+}
