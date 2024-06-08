@@ -2,7 +2,10 @@
   color: white;
 }
 nav {
-  background-color: transparent;
+  background-color: rgb(48, 48, 48);
+}
+.nav-item {
+  color: whitesmoke;
 }
 .kids p {
   margin-bottom: 0px;
@@ -15,6 +18,14 @@ main {
   background-color: rgb(0, 0, 0);
   border: 1px solid white;
   border-radius: 0px;
+}
+.main-btn:hover {
+  background-color: rgb(54, 54, 54);
+  color: whitesmoke;
+}
+.dropdown-menu {
+  background-color: rgb(54, 54, 54);
+  color: whitesmoke;
 }
 .btn-group .btn {
   background-color: rgb(0, 0, 0);
