@@ -27,6 +27,14 @@ main {
   background-color: rgb(54, 54, 54);
   color: whitesmoke;
 }
+.dropdown-toggle::after {
+  margin: 0;
+}
+
+.dropdown-menu[data-bs-popper] {
+  top: 100%;
+  left: -115px;
+}
 .btn-group .btn {
   background-color: rgb(0, 0, 0);
   border: 1px solid white;
