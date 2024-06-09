@@ -72,3 +72,10 @@ img {
   background-color: rgb(255, 255, 255);
   border-color: whitesmoke;
 }
+
+.movie-img:hover {
+  scale: 1.1;
+  cursor: pointer;
+  transition: scale 300ms;
+  box-shadow: 1px 1px 9px 1px rgba(214, 214, 214, 0.433);
+}
