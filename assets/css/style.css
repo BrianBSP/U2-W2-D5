@@ -17,7 +17,6 @@ main {
 .main-btn {
   background-color: rgb(0, 0, 0);
   border: 1px solid white;
-  border-radius: 0px;
 }
 .main-btn:hover {
   background-color: rgb(54, 54, 54);
@@ -68,4 +67,8 @@ img {
 }
 .row-foot:nth-of-type(4) {
   margin-left: 20px;
+}
+.btns-attaccati:checked {
+  background-color: rgb(255, 255, 255);
+  border-color: whitesmoke;
 }
