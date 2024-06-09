@@ -2,7 +2,11 @@
   color: white;
 }
 nav {
-  background-color: transparent;
+  background-color: rgb(48, 48, 48);
+}
+.dropdown-menu[data-bs-popper] {
+  top: 100%;
+  left: -82px;
 }
 .kids p {
   margin-bottom: 0px;
@@ -18,11 +22,13 @@ main {
   width: 600px;
   border-bottom: 1px solid rgb(208, 208, 208);
 }
-.btn-canc-member {
-  border-radius: 0px;
+
+.contain-billing {
+  margin-right: 10px;
 }
 ul {
   list-style: none;
+  padding-left: 0rem;
 }
 .labels-ul li:nth-of-type(2) {
   color: lightgray;
