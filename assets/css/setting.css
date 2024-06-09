@@ -6,7 +6,7 @@ nav {
 }
 .dropdown-menu[data-bs-popper] {
   top: 100%;
-  left: -82px;
+  left: -105px;
 }
 .kids p {
   margin-bottom: 0px;
@@ -21,6 +21,9 @@ main {
 .contain-name {
   width: 600px;
   border-bottom: 1px solid rgb(208, 208, 208);
+}
+.contain-gift {
+  border-top: 1px solid rgb(208, 208, 208);
 }
 
 .contain-billing {

@@ -53,8 +53,8 @@ main {
 }
 .bi-pencil-fill {
   position: absolute;
-  left: 2px;
-  top: 1.5px;
+  left: 4px;
+  top: -0.5px;
 }
 .cerchio {
   width: 25px;
